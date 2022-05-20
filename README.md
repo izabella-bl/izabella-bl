@@ -1,4 +1,4 @@
-## 👋 Oi eu sou a Izabella Barros!
+## 👋 Olá, Seja Bem-vindo(a) ao meu Perfil!
 <div align="center">
   <a href="https://github.com/izabella-bl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izabella-bl&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
